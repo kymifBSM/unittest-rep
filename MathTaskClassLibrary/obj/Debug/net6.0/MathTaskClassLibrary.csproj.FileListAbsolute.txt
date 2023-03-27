@@ -1,0 +1,12 @@
+C:\Users\kymifBSM\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\net6.0\MathTaskClassLibrary.deps.json
+C:\Users\kymifBSM\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\net6.0\MathTaskClassLibrary.dll
+C:\Users\kymifBSM\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\net6.0\MathTaskClassLibrary.pdb
+C:\Users\kymifBSM\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\net6.0\MathTaskClassLibrary.csproj.AssemblyReference.cache
+C:\Users\kymifBSM\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\net6.0\MathTaskClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kymifBSM\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\net6.0\MathTaskClassLibrary.AssemblyInfoInputs.cache
+C:\Users\kymifBSM\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\net6.0\MathTaskClassLibrary.AssemblyInfo.cs
+C:\Users\kymifBSM\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\net6.0\MathTaskClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kymifBSM\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\net6.0\MathTaskClassLibrary.dll
+C:\Users\kymifBSM\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\net6.0\refint\MathTaskClassLibrary.dll
+C:\Users\kymifBSM\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\net6.0\MathTaskClassLibrary.pdb
+C:\Users\kymifBSM\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\net6.0\ref\MathTaskClassLibrary.dll
